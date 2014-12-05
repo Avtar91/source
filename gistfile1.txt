@@ -1,0 +1,8 @@
+      Student Record	
+
+Sr No		Name		  Roll No	Registration		
+1		Avtar		  A01	        11410426			
+2	    	Jagdish		  A02	        11410001
+3	    	Sunny		  A03	        11408992
+4		Maninder	  A04		11425871	
+	
