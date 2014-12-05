@@ -1,0 +1,9 @@
+      Student Record	
+
+Sr No		Name		  Roll No	Registration No		
+1		Avtar		  A01	        11410426			
+2	    	Jagdish		  A02	        11410001
+3	    	Sunny		  A03	        11408992
+4		Maninder	  A04		11425871	
+5		Varinder	  A05		11406987			
+6		Ravi Singh	  A06		11487565	
